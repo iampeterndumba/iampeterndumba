@@ -3,7 +3,7 @@
 ### About Me
 I am an aspiring machine Learning Engineer who loves to use technology to solve business problems. 
 I am currently enrolled in the AWS Machine Learning course where I am learning the required skills
-required to build and deploy a Machine Learning models in production.
+required to create and deploy a Machine Learning models in production using Amazon SageMaker.
 
 ### Experience
 I have previously worked as an IT Technician at the Ministry of Agriculture. Currently, I am working as a self-employed IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
