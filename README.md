@@ -18,7 +18,7 @@ I have previously worked as an IT Technician at the Ministry of Agriculture. Cur
 - Pandas
 - NumPy
 - HTML/CSS3
-- PHP/MySql
+- PHP/MySQL
 
 <!---
 iampeterndumba/iampeterndumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
