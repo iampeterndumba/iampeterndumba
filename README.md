@@ -10,14 +10,15 @@ I have previously worked as an IT Technician at the Ministry of Agriculture. Cur
 
 
 ### Skills
-- HTML/CSS3,
-- PHP/MySql,
+
 - Python
 - SQL
 - PyTorch
 - SkLearn
 - Pandas
 - NumPy
+- - HTML/CSS3
+- PHP/MySql
 
 <!---
 iampeterndumba/iampeterndumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
