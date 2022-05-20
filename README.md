@@ -6,7 +6,7 @@ I am currently enrolled in the AWS Machine Learning course where I am learning t
 required to build and deploy a Machine Learning models in production.
 
 ### Experience
-I am currently self employed and work with c
+I have previously worked as an IT Technician at Ministry of Agriculture. Currently a self-employed IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
 
 
 ### Skills
