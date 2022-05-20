@@ -17,7 +17,7 @@ I have previously worked as an IT Technician at the Ministry of Agriculture. Cur
 - SkLearn
 - Pandas
 - NumPy
-- HTML/CSS3
+- HTML5/CSS3
 - PHP/MySQL
 
 <!---
