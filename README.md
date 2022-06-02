@@ -4,7 +4,7 @@
 I am a professional Web Developer and aspiring Machine Learning Research Engineer, and one of my favorite pursuits is solving business problems while utilizing the latest technology in the market.
 
 I am currently enrolled in the AWS Machine Learning course where I am learning the required skills
-required to create and deploy a Machine Learning models in production using Amazon SageMaker.
+required to create and deploy Machine Learning models in production using Amazon tools, Python, and other few other frameworks.
 
 ### Experience
 I have previously worked as an IT Technician at the Ministry of Agriculture. Currently, I am working as a self-employed IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
