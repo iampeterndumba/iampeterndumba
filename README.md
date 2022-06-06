@@ -7,7 +7,7 @@ I am currently enrolled in the AWS Machine Learning course where I am learning t
 required to create and deploy Machine Learning models in production using Amazon tools, Python, and other few other frameworks.
 
 ### Experience
-I have previously worked as an IT Technician. Currently, I am working as an IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
+Currently, I am working as an IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
 
 
 ### Skills
