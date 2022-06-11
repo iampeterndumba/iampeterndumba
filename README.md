@@ -3,11 +3,11 @@
 ### About Me
 I am a professional Web Developer and aspiring Machine Learning Research Engineer, and one of my favorite pursuits is solving business problems while utilizing the latest technology in the market.
 
-I am currently enrolled in the AWS Machine Learning course where I am learning the required skills
+I am currently enrolled in the AWS Machine Learning course where I am learning skills
 required to create and deploy Machine Learning models in production using Amazon tools, Python, and other few other frameworks.
 
 ### Experience
-Currently, I am working as an IT consultant, and I  mostly work with startup companies to help them incorporate technologies into their businesses.
+Currently, I am working as an IT consultant, and I  mostly work with small-medium companies to help them incorporate technologies into their businesses.
 
 
 ### Skills
